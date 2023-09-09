@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.google.com/search?q=coding+banner+img&tbm=isch&ved=2ahUKEwitsfnitJ2BAxVjIWIAHU5yD6YQ2-cCegQIABAA&oq=coding+banner+img&gs_lcp=CgNpbWcQAzoHCAAQExCABDoICAAQCBAeEBM6BwgjEOoCECc6CAgAEAUQHhATOgYIABAeEBNQlgZYoLMBYIm9AWgCcAB4BoABqweIAddEkgELMi03LjkuMy4xLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=SVX8ZO3oFOPCiLMPzuS9sAo&bih=711&biw=842&rlz=1C1AWFC_enIN998IN998#imgrc=HTOAZgy11a5FTM" />
+  <img src="https://i.pinimg.com/564x/a4/f2/99/a4f299621122448e93501f8212b37834.jpg" />
 </h1>
 <h2 align="center">Hi 👋, I'm sunny dange</h2>
 <h3 align="center">A passionate frontend developer from India & Ethical Hacker</h3>
