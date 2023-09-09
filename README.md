@@ -1,8 +1,10 @@
-[ ![masterhead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_102146167_vector-line-web-concept-for-programming-linear-web-banner-for-coding-.html%3Fvti%3Dundefined-1-74&psig=AOvVaw0FmKAFKeWUQrMZS3K06BQ6&ust=1694345302779000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj5mqK2nYEDFQAAAAAdAAAAABAE)]
-<h1 align="center">Hi 👋, I'm sunny dange</h1>
+<h1 align="center">
+  <img src="https://www.google.com/search?q=coding+banner+img&tbm=isch&ved=2ahUKEwitsfnitJ2BAxVjIWIAHU5yD6YQ2-cCegQIABAA&oq=coding+banner+img&gs_lcp=CgNpbWcQAzoHCAAQExCABDoICAAQCBAeEBM6BwgjEOoCECc6CAgAEAUQHhATOgYIABAeEBNQlgZYoLMBYIm9AWgCcAB4BoABqweIAddEkgELMi03LjkuMy4xLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=SVX8ZO3oFOPCiLMPzuS9sAo&bih=711&biw=842&rlz=1C1AWFC_enIN998IN998#imgrc=HTOAZgy11a5FTM" />
+</h1>
+<h2 align="center">Hi 👋, I'm sunny dange</h2>
 <h3 align="center">A passionate frontend developer from India & Ethical Hacker</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangesunny20&label=Profile%20views&color=0e75b6&style=flat" alt="dangesunny20" /> </p>
 [ ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_102146167_vector-line-web-concept-for-programming-linear-web-banner-for-coding-.html%3Fvti%3Dundefined-1-74
