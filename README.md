@@ -7,8 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangesunny20&label=Profile%20views&color=0e75b6&style=flat" alt="dangesunny20" /> </p>
-[ ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_102146167_vector-line-web-concept-for-programming-linear-web-banner-for-coding-.html%3Fvti%3Dundefined-1-74
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangesunny20" alt="dangesunny20" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce website**
 
